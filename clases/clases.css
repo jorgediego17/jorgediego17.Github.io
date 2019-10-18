@@ -1,0 +1,73 @@
+p  {color:black;
+	border: solid;
+	font-size: medium;
+	font-family: serif;
+	text-align: center;
+	text-decoration: none;	
+}
+.get{color:green;
+	border: solid;
+	font-size: medium;
+	font-family: serif;
+	text-align: center;
+	text-decoration: overline;	
+}
+h4{color:red;
+	border: solid;
+	font-size: medium;
+	font-family: serif;
+	text-align: center;
+	text-decoration: overline;	
+}	
+.jda{color: blue;
+	border: dotted;
+	font-size: small;
+	font-family: sans-serif;
+	text-align: center;
+	text-decoration: overline;
+}
+a  {color:black;
+	border: solid;
+	font-size: medium;
+	font-family: serif;
+	text-align: center;
+	text-decoration: none;	
+}
+.neto{color: blue;
+	border: medium;
+	font-size: small;
+	font-family: sans-serif;
+	text-align: center;
+	letter-spacing: 1px
+}
+ul {color: black;
+	border: none;
+	font-size: medium;
+	font-family: serif;
+	text-align: center;
+	text-decoration: none;	
+}
+.yu{color: orange;
+	border: none;
+	font-size: medium;
+	font-family: sans-serif;
+	text-align: left;
+	text-decoration: none;
+}
+
+body{background-color:white;
+	margin:5px;
+	border: thick;
+	padding: 25px 50px 75px 100px;
+	letter-spacing: 3px;
+	text-shadow: none;
+}
+.red{background-color:white
+	margin:inherit;
+	border: unset;
+	padding: 22px 16px 70px 90px;
+	letter-spacing: 3px;
+	text-shadow: 1px 7px purple;
+
+}	
+
