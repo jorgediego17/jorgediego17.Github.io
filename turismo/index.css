@@ -2,9 +2,12 @@ tr {     text-align: center;
 	text-decoration: none;	
 	border:solid;
 }
-.get {  border: solid;
+.right {  border: solid;
 	text-align: right;
 	text-decoration: none;	
+}
+.left { text-align: left;
+	border: solid;
 }	
 h1 {	text-align: center;	
 }			
