@@ -1,8 +1,7 @@
-a {color:black;
-	font-family: serif;
-	text-align: center;
-		
+a {     text-align: center;
+	text-decoration: none;	
+	border:solid;
 }
-.get{color:black;
-	border: solid;
+.get {  border: solid;
 	text-align: right;
+	text-decoration: none;	
