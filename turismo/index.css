@@ -1,8 +1,8 @@
-tr {     text-align: center;
+a {    text-align: center;
 	text-decoration: none;	
 	border:solid;
 }
-.right {  border: solid;
+.right {border: solid;
 	text-align: right;
 	text-decoration: none;	
 }
