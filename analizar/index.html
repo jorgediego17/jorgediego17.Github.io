@@ -1,32 +1,36 @@
 <html lang=gl-ES>
 <head>
-<link  rel=stylesheet  href=analizar.css>
 <meta charset="UTF-8" />
-<meta author="uniwebsidad.com"/>
+<meta author="uniwebsidad.com" />
 <title>Curriculum Vitae</title>
+<link rel="stylesheet" type="text/css" href="bonito.css">
 </head>
 <body>
 
-  <h1>Bienvenido</h1>
+  <h3>Enche o teu CV</h3>
   <form action="" method="" media="screen">
-  introduce tu nombre:<input type="text" name="introduce tu nombre:" value="" size="20" maxlength="10" />
-  <br>
- Mensaje:<input type="text" name="Mensaje:" value="" size="40" maxlength="80"/>
-  
-  <br>
-  <br>
-  <br>
-  seleciona el color de tu icono: <br>
-  <input type="radio" name="icono" value="Rojo" maxlength="10"> Rojo
-  <br>
-  <input type="radio" name="icono" value="Verde" maxlength="10">Verde
-  <br>
-  <input type="radio" name="icono" value="Azul" maxlength="10">Azul
-  <br>
-  <br>
-Seleciona los dias con disponibilidad: 
-<br>
-  
+  Nome <br/>
+  <input type="text" name="nombre" value="" size="20" maxlength="30" />
+  <br/>
+  Apelidos <br/>
+  <input type="text" name="apellidos" value="" size="50" maxlength="80" />
+  <br/>
+  Contrasinal <br/>
+  <input type="password" name="contrasena" value="" maxlength="10" />
+  <br/>
+  DNI <br/>
+  <input type="text" name="dni" value="123" size="10" maxlength="9" />
+  <br/>
+  Sexo <br/>
+  <input type="radio" name="sexo" value="hombre" checked="checked" /> Hombre <br/>
+  <input type="radio" name="sexo" value="mujer" /> Mujer
+  <br/><br/>
+  Inserir foto <input type="file" name="foto" />
+  <br/><br/>
+  <input name="suscribir" type="checkbox" value="subscribir" checked="checked"/> Subscribirme ó boletín de novidades
+  <br/><br/>
+  <input type="submit" name="enviar" value="Gardar cambios" />
+  <input type="reset" name="borrar" value="Borrar os datos introducidos" />
   </form>
 </body>
 </html>
