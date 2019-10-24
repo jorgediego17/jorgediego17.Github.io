@@ -1,73 +1,26 @@
-p  {color:black;
-	border: solid;
-	font-size: medium;
-	font-family: serif;
-	text-align: center;
-	text-decoration: none;	
+.fondo{
+	background-color: gray
 }
-.get{color:green;
-	border: solid;
-	font-size: medium;
-	font-family: serif;
-	text-align: center;
-	text-decoration: overline;	
+.azul{
+margin-left:50px;
+font-size: 15pt;
+color:azure;
+font: sans-serif;
 }
-h4{color:red;
-	border: solid;
-	font-size: medium;
-	font-family: serif;
-	text-align: center;
-	text-decoration: overline;	
-}	
-.jda{color: blue;
-	border: dotted;
-	font-size: small;
-	font-family: sans-serif;
-	text-align: center;
-	text-decoration: overline;
+.rosita{
+margin-left:60px;
+font-size: 13pt;
+color:pink;
+font: sans-serif;
 }
-a  {color:black;
-	border: solid;
-	font-size: medium;
-	font-family: serif;
-	text-align: center;
-	text-decoration: none;	
+.comodebeser{
+	text-align-last: center;
+	font-size: 25px;
+	font: serif	;
 }
-.neto{color: blue;
-	border: medium;
-	font-size: small;
-	font-family: sans-serif;
-	text-align: center;
-	letter-spacing: 1px
-}
-ul {color: black;
-	border: none;
-	font-size: medium;
-	font-family: serif;
-	text-align: center;
-	text-decoration: none;	
-}
-.yu{color: orange;
-	border: none;
-	font-size: medium;
-	font-family: sans-serif;
-	text-align: left;
+.links{
+	background-color:purple;
+	color:white;
+	font-variant:uppercase;
 	text-decoration: none;
-}
-
-body{background-color:white;
-	margin:5px;
-	border: thick;
-	padding: 25px 50px 75px 100px;
-	letter-spacing: 3px;
-	text-shadow: none;
-}
-.red{background-color:white
-	margin:inherit;
-	border: unset;
-	padding: 22px 16px 70px 90px;
-	letter-spacing: 3px;
-	text-shadow: 1px 7px purple;
-
-}	
-
+	display:inline-block;
