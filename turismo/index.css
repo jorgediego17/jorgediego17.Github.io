@@ -2,7 +2,8 @@ a {    text-align: center;
 	text-decoration: none;	
 }
 .right {text-align: right;
-	text-decoration: none;	
+	text-decoration: none;
+	padding:15px;
 }
 .left { text-align: left;
 }	
