@@ -1,13 +1,10 @@
 a {    text-align: center;
 	text-decoration: none;	
-	border:solid;
 }
-.right {border: solid;
-	text-align: right;
+.right {text-align: right;
 	text-decoration: none;	
 }
 .left { text-align: left;
-	border: solid;
 }	
 h1 {	text-align: center;	
 }			
