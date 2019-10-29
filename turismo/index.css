@@ -3,9 +3,9 @@ a {     text-align: center;
 	padding-right:255px;
 /*buenos dias*/
 }
-.right {text-align: right;
+.tabla {text-align: right;
 	text-decoration: none;
-	padding:15px;
+	padding:255px;
 }
 .left { text-align: left;
 }	
