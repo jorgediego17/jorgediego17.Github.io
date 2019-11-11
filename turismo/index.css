@@ -19,7 +19,9 @@ h1 		{text-align: center;
 		 padding-left:30px;
 		 font-family: sans-serif; 	
 } 			
-body 	{background-color:#99ff99;}
+body 	{background-color:#99ff99;
+	 margin-left:2cm;
+}
 td  	{padding-left:auto;
 		 padding-right: auto;
 
