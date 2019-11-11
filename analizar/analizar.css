@@ -1,12 +1,17 @@
-h3 {color:red;}
+h3 {color:red;
+    padding:20px;
+}
 input[type=text] {
   font-family: "Times New Roman", Times, serif;
+  padding:20px;
 }
 input[type=password] {
   font-family: "Times New Roman", Times, serif;
+  padding:20px;
 }
 input[type=button] {
   font-family: "Times New Roman", Times, serif;
+  padding:20px;
 }
 input[type=text], input[type=submit], input[type=reset] {
 	width:80%;
@@ -19,6 +24,7 @@ input[type=text], input[type=submit], input[type=reset] {
 input[type=text] {
 	background-color: #3CBC8D;
 	color: white;
+	padding:20px;
 }
 input[type=password] {
 	width:80%;
@@ -31,6 +37,7 @@ input[type=password] {
 input[type=password] {
 	background-color: #3CBC8D;
 	color: white;
+	padding:20px;
 }
 input[type=button], input[type=submit], input[type=reset] {
 	background-color: #55ff99;
