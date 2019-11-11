@@ -1,6 +1,7 @@
 h3 {color:red;
     padding:40px;
     margin:auto;
+    text-align:center;
 }
 input[type=text] {
   font-family: "Times New Roman", Times, serif;
