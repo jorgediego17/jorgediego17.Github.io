@@ -40,8 +40,9 @@ div  	{font-size:200%;
 
 }
 }
-p    	{padding-left:30px;
-		 font-family: sans-serif; 	
+p    	{padding-left:30px; 
+	margin:20px;
+	font-family: sans-serif; 	
 }
 h2 		{padding-left:30px;
 		 font-family: sans-serif;
