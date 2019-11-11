@@ -1,0 +1,43 @@
+h2 {
+	color:52D017;
+	font-size: 50px;
+}
+body{
+	margin-left:2cm;
+	background-color:yellow;
+}	
+.azul{
+	background-color: #0000FF;
+  border:3px solid yellow;
+  border-radius:10px;
+	
+}
+.rosaxd{
+	background-color: #FF00FF;
+  border:3px solid yellow;
+  border-radius:10px;
+}
+
+
+.gordo{
+	background-color: #800000;
+  border:3px solid yellow;
+  border-radius:10px;
+}
+
+input[type=submit] {
+ background-color: #FFA500;
+  border:3px solid yellow;
+  border-radius:10px;
+
+}
+
+input[type=reset] {
+  background-color: #4CAF50;
+  border:3px solid yellow;
+  border-radius:10px;
+}
+
+
+
+
