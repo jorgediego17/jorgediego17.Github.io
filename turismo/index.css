@@ -2,6 +2,7 @@ a {     text-align: center;
 	    text-decoration: none;
      	padding-right:55px;
      	color:red;
+     	font-size: 150%;
 /*buenos dias*/
 }
 .centro{text-align: center;
@@ -14,8 +15,45 @@ a {     text-align: center;
 	    text-decoration: none;
 	    font-size: large;
 } 	
-h1 {	text-align: center;	
+h1 		{text-align: center;
+		 padding-left:30px;
+		 font-family: sans-serif; 	
 } 			
-body {background-color:#99ff99;}
-td   {padding:155px; }
-div  {font-size:200%;}	
+body 	{background-color:#99ff99;}
+td  	{padding-left:auto;
+		 padding-right: auto;
+
+}
+table {width: 120%;
+	   margin: 10px;
+}
+div  	{font-size:200%;
+		 padding-left:30px;
+
+}
+.centrar {margin: auto;
+  		  width: 100%;
+ 		  border: 3px solid green;
+ 		  padding-left:10px;
+          text-decoration: none;
+ }
+
+}
+}
+p    	{padding-left:30px;
+		 font-family: sans-serif; 	
+}
+h2 		{padding-left:30px;
+		 font-family: sans-serif;
+
+}
+img {padding-left: 30px;
+	 width: 250px; height: 250px;
+}
+svg {display:block;
+	 height: 200px;
+	 width: 200px;
+	 margin-left: auto;
+	 margin-right: auto;
+
+}
