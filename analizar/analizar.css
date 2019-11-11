@@ -5,17 +5,17 @@ h3 {color:red;
 }
 input[type=text] {
   font-family: "Times New Roman", Times, serif;
-  padding:40px;
+  padding:20px;
   margin:auto;
 }
 input[type=password] {
   font-family: "Times New Roman", Times, serif;
-  padding:40px;
+  padding:20px;
   margin:auto;
 }
 input[type=button] {
   font-family: "Times New Roman", Times, serif;
-  padding:40px;
+  padding:20px;
   margin:auto;
 }
 input[type=text], input[type=submit], input[type=reset] {
@@ -29,7 +29,7 @@ input[type=text], input[type=submit], input[type=reset] {
 input[type=text] {
 	background-color: #3CBC8D;
 	color: white;
-	padding:40px;
+	padding:20px;
 	margin:auto;
 }
 input[type=password] {
@@ -43,7 +43,7 @@ input[type=password] {
 input[type=password] {
 	background-color: #3CBC8D;
 	color: white;
-	padding:40px;
+	padding:20px;
 	margin:auto;
 }
 input[type=button], input[type=submit], input[type=reset] {
