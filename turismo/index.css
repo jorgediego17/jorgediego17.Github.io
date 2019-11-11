@@ -1,14 +1,21 @@
 a {     text-align: center;
-	text-decoration: none;
-	padding-right:255px;
+	    text-decoration: none;
+     	padding-right:55px;
+     	color:red;
 /*buenos dias*/
 }
-.tabla {text-align: center;
-	text-decoration: none;
-	padding:255px;
-	font-size: large;
-}
-.left { text-align: left;
-}	
+.centro{text-align: center;
+	    text-decoration: none;
+	    font-size: large;}
+.derecha{text-align:right;
+	    text-decoration: none;
+	    font-size: large; }
+.izquierda{text-align: left;
+	    text-decoration: none;
+	    font-size: large;
+} 	
 h1 {	text-align: center;	
 } 			
+body {background-color:#99ff99}
+td   {padding:155px }
+div  {font-size:200%;}	
