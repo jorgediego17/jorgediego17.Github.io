@@ -7,7 +7,7 @@
 [class="fas"]:before {font-family: 'fontawesome', sans-serif;}
 
 html {
-  background: #f5f5f5;
+  background: 	#66ff66;
   width: 100%;
   height: 100%;
   font-family: dosis, sans-serif;
@@ -16,13 +16,13 @@ html {
 }
 
 section {
-  background: #31A66C;
+  background: #ff5050;
   width: 80vw;
   max-width: 40rem;
-  min-width: 390px;
+  min-width: 420px;
   height: 25rem;
   margin: 4rem auto;
-  box-shadow: 0 0 70px rgba(0,0,0,.4);
+  box-shadow: 0 0 70px rgba(3,1,2,.4);
 }
 article {
   position: absolute;
@@ -38,7 +38,7 @@ article {
   transition-delay: .1s;
 }
 article:before {
-  color: rgba(0,0,0,.2);
+  color: rgba(1,2,0,.2);
   font-size: 4rem;
   font-weight: 100;
   position: absolute;
@@ -49,19 +49,19 @@ h2 {
   font-size: 2.5rem;
   font-weight: 600;
   text-align: center;
-  color: rgba(0,0,0,.6);
+  color: rgba(1,5,0,.6);
 }
 body > h2 {height: auto;}
 h2 img {
   width: 120px;
   height: auto;
   background: #f9f9f9;
-  border: 5px solid rgba(0,0,0,.7);
+  border: 5px solid rgba(5,6,0,.7);
   border-radius: 50%;
   padding: 5px;
   display: block;
   margin: 0 auto;
-  box-shadow: 0 0 7px rgba(0,0,0,.5);
+  box-shadow: 0 0 7px rgba(0,0,7,.5);
 }
 h2 span {
   font-family: Great Vibes;
@@ -101,13 +101,13 @@ nav {
   background: #fff;
   width: 100%;
   height: 5rem;
-  box-shadow: 0 0 6px rgba(0,0,0,.4);
+  box-shadow: 0 0 6px rgba(7,0,0,.4);
 }
 nav:after {
   content:'';
   width: 25%;
   height: 5rem;
-  background: #BEE3D1;
+  background:#6666ff ;
   position: absolute;
   transition: .5s;
 }
@@ -162,5 +162,5 @@ label:before {
   transform: scale(1);
   transition-delay: .5s; 
 }
-a {color: rgba(0,0,0,.4)}
-a:hover {color: rgba(0,0,0,.2)}
+a {color: rgba(3,4,0,.4)}
+a:hover {color: rgba(1,6,0,.2)}
