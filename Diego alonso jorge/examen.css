@@ -1,0 +1,47 @@
+html{margin-left: 15%;
+
+}
+header{background-color:#cfccc9;
+}
+section {background-color:#ffb3ff;
+
+}
+footer{background-color:#1a001a;
+
+}
+.corazond{float: right;
+		  align-self: center;
+		  height: 50px; width: 50px;
+
+}
+.corazoni{float: left;
+		   align-self:center;
+		   height: 50px; width: 50px;
+
+}
+.titulo{text-align: center;
+	     font-size: 250%;
+		 border: 1px solid red;
+			 -moz-border-radius: 9px;
+			  -webkit-border-radius:9px;
+}
+img{ margin-left: auto;
+      margin-right: auto;
+	 height: 100px;width: 100px;
+	 padding-left: 5cm;
+
+}
+video{float: right;
+
+}
+p{font-size: 150%;
+  font-family:verdana;
+
+}
+th, td {
+  padding: 50px;
+}
+.marron{
+	background-color:#4d0000;
+  border:3px solid yellow;
+  border-radius:10px;
