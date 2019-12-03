@@ -1,0 +1,64 @@
+ <!DOCTYPE html>
+<html lang="gl">
+<head>
+  <title>Bootstrap con carrusel</title>
+  <meta charset="utf-8">
+  <!-- Responsiveness --> 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--   Consulta as .css e os scripts en .js para que funcione Bootstrap 4-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+  </head>
+  <body>
+  <div id="demo" class="carousel slide" data-ride="carousel">
+    ​
+    <!-- Indicadores: raias debaixo das imaxes-->
+    <ul class="carousel-indicators">
+      <li data-target="#demo" data-slide-to="0"></li>
+      <li data-target="#demo" data-slide-to="1" class="active"></li>
+      <li data-target="#demo" data-slide-to="2"></li>
+    </ul>
+
+    <!-- Slideshow -->
+    <div class="carousel-inner">
+      <!-- Imaxe enooorme -->
+      <div class="carousel-item">
+        <img src="imaxes/1.jpg" alt="Aquí debería saír a miña imaxe" width="100%" height="100%">
+      </div>
+
+      <!--    Quen leva active é o primeiro que sae-->      
+      <div class="carousel-item active" >
+        <img src="imaxes/2.jpg" alt="Aquí debería saír a miña imaxe" width="100%" height="100%">
+      </div>
+      <!-- Imaxe chiquitina -->
+      <div class="carousel-item">
+        <img src="imaxes/3.jpg" alt="Aquí debería saír a miña imaxe" width="100%" height="100%">
+      </div>
+
+    </div>
+
+    <!-- Frechiñas dereita e esquerda -->
+    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#demo" data-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </a>
+  </div>
+    </div>
+
+  </div>
+  <!-- fin container inicial-->
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
